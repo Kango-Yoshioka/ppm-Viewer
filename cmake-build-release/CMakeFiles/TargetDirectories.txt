@@ -1,0 +1,3 @@
+C:/CGProgramming/CLion/workspace/ppm_viewer/cmake-build-release/CMakeFiles/ppm_viewer.dir
+C:/CGProgramming/CLion/workspace/ppm_viewer/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/CGProgramming/CLion/workspace/ppm_viewer/cmake-build-release/CMakeFiles/rebuild_cache.dir
